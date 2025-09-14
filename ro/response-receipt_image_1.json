@@ -1,0 +1,209 @@
+{
+    "ocr_type": "receipts",
+    "request_id": "P_86.23.107.211_mfk1ul1c_6bg",
+    "ref_no": "oct_python_123",
+    "file_name": "receipt_image_1.jpg",
+    "request_received_on": 1757875775232,
+    "success": true,
+    "image_width": 2448,
+    "image_height": 3264,
+    "image_rotation": 0,
+    "recognition_completed_on": 1757875776141,
+    "receipts": [
+        {
+            "merchant_name": "Berghotel",
+            "merchant_address": null,
+            "merchant_phone": "+41 33 853 67 16",
+            "merchant_website": null,
+            "merchant_tax_reg_no": null,
+            "merchant_company_reg_no": null,
+            "region": null,
+            "mall": null,
+            "country": "CH",
+            "receipt_no": "4572",
+            "date": "2007-07-30",
+            "time": null,
+            "items": [
+                {
+                    "amount": 9.0,
+                    "category": null,
+                    "description": "2xLatte Macchiato \u00e0 4.50 CHF",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 5.0,
+                    "category": null,
+                    "description": "1xGloki\u00e0 5.00 CHF",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 22.0,
+                    "category": null,
+                    "description": "1xSchweinschnitzel \u00e0 22.00 CHF",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 18.5,
+                    "category": null,
+                    "description": "1xCh\u00e4ssp\u00e4tzli\u00e0 18.50 CHF",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                }
+            ],
+            "currency": "CHF",
+            "total": 54.5,
+            "subtotal": null,
+            "tax": null,
+            "service_charge": null,
+            "tip": null,
+            "payment_method": null,
+            "payment_details": null,
+            "credit_card_type": null,
+            "credit_card_number": null,
+            "ocr_text": "                 Berghotel\n            Grosse Scheidegg\n               3818 Grindelwald\n               Familie R.M\u00fcller\n Rech. Nr. 4572         30.07.2007/13: 29: 17\n Bar                           Tisch 7/01\n 2xLatte Macchiato \u00e0 4.50 CHF 9.00\n  1xGloki            \u00e0 5.00 CHF 5.00\n  1xSchweinschnitzel \u00e0 22.00 CHF 22.00\n 1xCh\u00e4ssp\u00e4tzli       \u00e0 18.50 CHF 18.50\n             Total: CHF          54.50\n Incl. 7.6% MwSt 54.50 CHF: 3.85\n Entspricht in Euro 36.33 EUR\n Es bediente Sie: Ursula\n               MwSt Nr. 430 234\n             Tel.: 033 853 67 16\n             Fax.: 033 853 67 19\n   E-mail: grossescheidegg @ bluewin. ch",
+            "ocr_confidence": 97.69,
+            "width": 1524,
+            "height": 2369,
+            "avg_char_width": 38.5765,
+            "avg_line_height": 62.4347,
+            "conf_amount": 83,
+            "source_locations": {
+                "date": [
+                    [
+                        {
+                            "x": 1193,
+                            "y": 921
+                        },
+                        {
+                            "x": 1924,
+                            "y": 925
+                        },
+                        {
+                            "x": 1924,
+                            "y": 994
+                        },
+                        {
+                            "x": 1193,
+                            "y": 991
+                        }
+                    ]
+                ],
+                "total": [
+                    [
+                        {
+                            "x": 1535,
+                            "y": 1704
+                        },
+                        {
+                            "x": 1824,
+                            "y": 1698
+                        },
+                        {
+                            "x": 1826,
+                            "y": 1789
+                        },
+                        {
+                            "x": 1537,
+                            "y": 1795
+                        }
+                    ]
+                ],
+                "receipt_no": [
+                    [
+                        {
+                            "x": 688,
+                            "y": 921
+                        },
+                        {
+                            "x": 846,
+                            "y": 921
+                        },
+                        {
+                            "x": 846,
+                            "y": 984
+                        },
+                        {
+                            "x": 688,
+                            "y": 984
+                        }
+                    ]
+                ],
+                "merchant_name": [
+                    [
+                        {
+                            "x": 940,
+                            "y": 430
+                        },
+                        {
+                            "x": 1451,
+                            "y": 436
+                        },
+                        {
+                            "x": 1450,
+                            "y": 520
+                        },
+                        {
+                            "x": 939,
+                            "y": 514
+                        }
+                    ]
+                ],
+                "doc": [
+                    [
+                        {
+                            "x": 291,
+                            "y": 310
+                        },
+                        {
+                            "x": 1968,
+                            "y": 310
+                        },
+                        {
+                            "x": 1968,
+                            "y": 2916
+                        },
+                        {
+                            "x": 291,
+                            "y": 2916
+                        }
+                    ]
+                ],
+                "merchant_phone": [
+                    [
+                        {
+                            "x": 1032,
+                            "y": 2515
+                        },
+                        {
+                            "x": 1551,
+                            "y": 2515
+                        },
+                        {
+                            "x": 1551,
+                            "y": 2588
+                        },
+                        {
+                            "x": 1032,
+                            "y": 2588
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}

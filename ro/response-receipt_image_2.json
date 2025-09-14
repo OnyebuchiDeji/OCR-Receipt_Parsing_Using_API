@@ -1,0 +1,149 @@
+{
+    "ocr_type": "receipts",
+    "request_id": "P_86.23.107.211_mfk1xx3a_3r9",
+    "ref_no": "oct_python_123",
+    "file_name": "receipt_image_2.jpg",
+    "request_received_on": 1757875930822,
+    "success": true,
+    "image_width": 600,
+    "image_height": 690,
+    "image_rotation": 0.006,
+    "recognition_completed_on": 1757875931218,
+    "receipts": [
+        {
+            "merchant_name": "Konoba-Pizzeria",
+            "merchant_address": null,
+            "merchant_phone": null,
+            "merchant_website": null,
+            "merchant_tax_reg_no": null,
+            "merchant_company_reg_no": null,
+            "region": null,
+            "mall": null,
+            "country": "US",
+            "receipt_no": null,
+            "date": null,
+            "time": null,
+            "items": [
+                {
+                    "amount": 50.0,
+                    "category": null,
+                    "description": "SAN SEBASTIJAN SRE 50.00 1.00",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 43.0,
+                    "category": null,
+                    "description": "CETIRI GODISNJA DO 43.00 1.00",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 15.0,
+                    "category": null,
+                    "description": "SALATA SEZONSKA15.00 1.00",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 12.0,
+                    "category": null,
+                    "description": "TOCENO-0,3L12.00 1.00",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 14.0,
+                    "category": null,
+                    "description": "OZUJSKO LIMUN 0.33 14.00 1.00",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                },
+                {
+                    "amount": 134.0,
+                    "category": null,
+                    "description": "UKUPNO",
+                    "flags": "",
+                    "qty": null,
+                    "remarks": null,
+                    "tags": null,
+                    "unitPrice": null
+                }
+            ],
+            "currency": "USD",
+            "total": 134.0,
+            "subtotal": null,
+            "tax": null,
+            "service_charge": null,
+            "tip": null,
+            "payment_method": null,
+            "payment_details": null,
+            "credit_card_type": null,
+            "credit_card_number": null,
+            "ocr_text": "   Konoba-Pizzeria\n   \"MASLINA\"\n   Split, Teutina la\n  vl. Biserka Pezo OIB: 89936314980\n  Ugostiteljski obrt \"MASLINA\"\n  Naziv            Cijena Kol. Iznos\n SAN SEBASTIJAN SRE 50.00 1.00     50.00\n CETIRI GODISNJA DO 43.00 1.00     43.00\n SALATA SEZONSKA    15.00 1.00     15.00\n TOCENO-0,3L        12.00 1.00 12.00\n OZUJSKO LIMUN 0.33 14.00 1.00 14.00\n UKUPNO                      134.00\n GOTOVINSKO\n Rn. 0017981 23.10.11       4 4\n U CIJENU JE URACUNAT PDV.\n HVALA NA POVJERENJU",
+            "ocr_confidence": 97.12,
+            "width": 444,
+            "height": 580,
+            "avg_char_width": 11.4705,
+            "avg_line_height": 17.9734,
+            "conf_amount": 79,
+            "source_locations": {
+                "merchant_name": [
+                    [
+                        {
+                            "x": 88,
+                            "y": 66
+                        },
+                        {
+                            "x": 396,
+                            "y": 60
+                        },
+                        {
+                            "x": 395,
+                            "y": 76
+                        },
+                        {
+                            "x": 88,
+                            "y": 82
+                        }
+                    ]
+                ],
+                "doc": [
+                    [
+                        {
+                            "x": 42,
+                            "y": 29
+                        },
+                        {
+                            "x": 531,
+                            "y": 32
+                        },
+                        {
+                            "x": 527,
+                            "y": 671
+                        },
+                        {
+                            "x": 38,
+                            "y": 668
+                        }
+                    ]
+                ]
+            }
+        }
+    ]
+}
